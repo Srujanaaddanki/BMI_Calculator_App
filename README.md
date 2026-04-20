@@ -2,7 +2,7 @@
 
 ![BMI-Calculator-App](https://socialify.git.ci/Srujanaaddanki/BMI-Calculator-App/image?font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55774240%2F122743259-77b8c780-d2a4-11eb-9f0e-c50cada02cc7.gif&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
-A new Flutter project.
+I developed an Android application using Kotlin that calculates BMI based on user inputs and categorizes health status. The project helped me understand UI design, event handling, and implementing logic in mobile applications.
 # How It Will look 👇
 <table>
   <tr>
